@@ -1,6 +1,6 @@
 ## Family
 
-![my_family...picture by me](my_family.jpeg)
+![family vacation location](italy.jpg)
 
 - Spend time with my family during the holidays
 - Went on vacation to italy with family
