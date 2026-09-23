@@ -1,6 +1,6 @@
 ## Family
 
-![family vacation location](italy.jpg)
+![family vacation location](Italy.jpg)
 
 - Spend time with my family during the holidays
 - Went on vacation to italy with family
