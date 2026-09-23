@@ -1,6 +1,6 @@
 ## Education
 
-[my future education](education.jpeg)
+![my future education](mechatronics.jpg)
 
 - I've completed my Honours Bachelor of Design at Wilfrid Laurier apart of the UX design program
 - I graduated a couple years ago now and plan to go back to university soon.
