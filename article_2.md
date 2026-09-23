@@ -1,5 +1,6 @@
 ## Financial/Career
-[this is my future job](scrum.jpg)
+
+![this is my future job](scrum.jpg)
 
 - I now work at IBM in a team of other UX designers that work on various projects together.
 - Some projects call for the help of co-op students in the form of internships.
