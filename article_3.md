@@ -1,6 +1,6 @@
 ## Recreational/Hobbies
 
-![my drawing](drawing.png)
+![my drawing](drawing.jpg)
 
 - I still enjoy drawing in my free time, I have an online platform/following
   where I do commisions to make money on the side
