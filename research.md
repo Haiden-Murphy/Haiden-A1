@@ -1,7 +1,7 @@
 ## Student Portfolio Goal Reasearch
 My goals are fairly simple, I mention them above as if I have already achived them. I have not. I'm imagining myself five years from now talking with an old friend. Based on these goals I will do a research analysis using two articles accesable through Laurier's library that are related to student portfolio goals.
 
-These articticles both touch on students planning and experiences contribute to goal making. I think my goals, atleast, when it comes to my career are fairly planned out and not just thrown out there. For example I have been an intern at IBM for two summers in the past. That coupled with my completion of my UX program here at laurier increases my chances of eventually working there sometime in the future.
+These articticles both touch on students planning and experiences contribute to goal making. I think my goals, atleast, when it comes to my career are fairly planned out and not just thrown out there. For example I have been an intern at IBM for two summers in the past. That coupled with my completion of my UX program here at laurier increases my chances of eventually working there sometime in the future. Not only that I would also like to improve my knowledge and experience in the field of UX.
 
 ## Works Cited
 
